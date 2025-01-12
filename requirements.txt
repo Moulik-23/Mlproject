@@ -5,5 +5,5 @@ scikit-learn
 Flask
 xgboost
 dill
-#catboost
+catboost
 #-e .
